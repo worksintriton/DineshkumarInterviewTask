@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TritonAppsGIt/DineshkumarDInterviewTask/app/src/main/res/layout/activity_health_check.xml" value="0.12360688956433637" />
+        <entry key="..\:/TritonAppsGIt/DineshkumarDInterviewTask/app/src/main/res/layout/activity_main.xml" value="0.19293478260869565" />
+        <entry key="..\:/TritonAppsGIt/DineshkumarDInterviewTask/app/src/main/res/layout/adapter_health_access.xml" value="0.12360688956433637" />
+        <entry key="..\:/TritonAppsGIt/DineshkumarDInterviewTask/app/src/main/res/layout/adapter_health_tdetails.xml" value="0.19293478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
